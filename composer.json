@@ -1,0 +1,19 @@
+{
+	"name": "alessandrimedia/devlib",
+	"description": "Development library",
+	"type": "typo3-cms-extension",
+	"version": "0.0.1",
+	"require": {
+		"typo3/cms-core": "~10.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"AlessandriMedia\\Devlib\\": "Classes/"
+		}
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "devlib"
+		}
+	}
+}
