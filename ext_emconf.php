@@ -28,5 +28,5 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'René Alessandri',
     'author_email' => 'rene@alessandri-media.ch',
     'author_company' => 'Alessandri Media',
-    'version' => '0.0.1',
+    'version' => '10.4.0',
 ];
